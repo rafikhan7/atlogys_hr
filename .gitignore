@@ -1,0 +1,10 @@
+
+# CakePHP 2
+
+/app/tmp/*
+/vendors/*
+/app/Config/database.php
+/app/webroot/files/uploads/*
+
+#/app/webroot/files/*
+/nbproject/private/
